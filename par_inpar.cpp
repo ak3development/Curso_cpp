@@ -1,4 +1,4 @@
-/*verificar si un numero es para o inpar*/
+/*verificar si un numero es par o inpar*/
 #include<iostream>
 
 int main(){
