@@ -1,4 +1,4 @@
-/*El ususario ingresara tres numero y debera comparar cual es el mayor y el mas pequeño*/
+/*El usuario ingresara tres numeros y debera comparar cual es el mayor, el mediano y el mas pequeño*/
 
 #include<iostream>
 
