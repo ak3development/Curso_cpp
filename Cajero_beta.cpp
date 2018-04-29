@@ -1,4 +1,4 @@
-/*Beta de un cajero virtual en donde el ususario empieza con 1000 dolares*/
+/*Beta de un cajero virtual en donde el usuario empieza con 1000 dolares*/
 
 #include <iostream>
 
